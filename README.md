@@ -7,9 +7,13 @@
 <p align="center">&emsp; I love making my ideas about projects come to life. That's why this quote resonates with me so much.</p>
 <br>
 <p>
-    &emsp; <b>•</b> Student at FERI University [Slovenia] <i>- Computer Science </i>
+    &emsp; <b>•</b> First year Student at FERI University [Slovenia] <i>- Computer Science </i>
     <br>
-    &emsp; <b>•</b> Currently learning C/C++ and JavaScript
+	&emsp; <b>•</b> I mainly code in C/C++
+	<br>
+    &emsp; <b>•</b> Currently learning JavaScript and Lua
     <br>
-    &emsp; <b>•</b> Linux, FOSS and manga enthusiast
+    &emsp; <b>•</b> Linux and FOSS enthusiast
+	<br>
+	%emsp; <b>•</b> I like playing sports and reading manga
 </p>
