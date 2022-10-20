@@ -11,7 +11,7 @@
     	<br>
 	&emsp; <b>•</b> I mainly code in C/C++
 	<br>
-    	&emsp; <b>•</b> Currently learning JavaScript and Lua
+    	&emsp; <b>•</b> Currently learning Kotlin
     	<br>
     	&emsp; <b>•</b> Linux and FOSS enthusiast
 	<br>
