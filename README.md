@@ -11,9 +11,5 @@
     	<br>
 	&emsp; <b>•</b> I mainly code in C/C++
 	<br>
-    	&emsp; <b>•</b> Currently learning Kotlin
-    	<br>
-    	&emsp; <b>•</b> Linux and FOSS enthusiast
-	<br>
-	&emsp; <b>•</b> I like playing sports and reading manga
+    	&emsp; <b>•</b> Currently learning Kotlin, C# and Node.js
 </p>
