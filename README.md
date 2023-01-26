@@ -10,6 +10,4 @@
     	&emsp; <b>•</b> Second year Student at FERI University [Slovenia] <i>- Computer Science </i>
     	<br>
 	&emsp; <b>•</b> I mainly code in C/C++
-	<br>
-    	&emsp; <b>•</b> Currently learning Kotlin, C# and Node.js
 </p>
