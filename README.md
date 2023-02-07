@@ -9,5 +9,9 @@
 <p>
     	&emsp; <b>•</b> Second year Student at FERI University [Slovenia] <i>- Computer Science </i>
     	<br>
-	&emsp; <b>•</b> I mainly code in C/C++
+	&emsp; <b>•</b> I mainly use C/C++
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihasket&show_icons=true&theme=gruvbox" />
 </p>
