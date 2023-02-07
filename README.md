@@ -11,7 +11,6 @@
     	<br>
 	&emsp; <b>•</b> I mainly use C/C++
 </p>
-
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mihasket&show_icons=true&theme=gruvbox" />
-</p>
+</p>-->
