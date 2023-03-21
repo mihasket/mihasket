@@ -1,5 +1,5 @@
  <p align="center">
-      Hello, I'm Miha :)<br>
+      <samp>Hello, I'm Miha :)</samp><br>
       <br>
       <samp>Second year student FERI [Slovenia] - Computer Science <br></samp>
 	  <samp>C, python<br></samp>
